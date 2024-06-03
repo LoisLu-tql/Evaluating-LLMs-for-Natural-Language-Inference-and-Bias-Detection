@@ -1,1 +1,3 @@
 # Evaluating-LLMs-for-Natural-Language-Inference-and-Bias-Detection
+
+This project aims to evaluate language models for both natural language inference and bias detection. In the capabilities section, I will fine-tune one seq-to-seq language model called T5, and one causal language model named Gemma, on the MultiNLI dataset to evaluate their natural language inference abilities. In the risks section, I will evaluate the biases, stereotypes, and associations in masked language models, including BERT, RoBERTa, and ALBERT on the CrowS-Pairs dataset, in relation to social groups based on sexual orientation.
